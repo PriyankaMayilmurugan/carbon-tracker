@@ -1,4 +1,4 @@
-# Project Carbon Tracker(GO GREEN) CMPT276@SFU
+## Project 1M1B (GO GREEN) CMPT276@SFU
 
 An Android app that tracks user's daily CO2 emissions(transportations and utility bills). User can see daily, monthly or yearly emissions from the main page.
 
